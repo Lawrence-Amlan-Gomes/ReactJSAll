@@ -1,0 +1,12 @@
+.headerStyle {
+  color: rgb(2, 0, 118);
+  text-decoration: none;
+}
+
+.listStyle{
+list-style-type: none;
+}
+.active{
+color: brown;
+text-decoration: none;
+}

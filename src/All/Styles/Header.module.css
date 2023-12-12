@@ -1,0 +1,27 @@
+.headerStyle {
+    color: rgb(2, 0, 118);
+    text-decoration: none;
+  }
+
+.listStyle{
+  list-style-type: none;
+  margin: 10px;
+  float: left;
+  padding: 10px;
+  background-color: rgb(227, 227, 227);
+  border-radius: 10px;
+}
+.listStyle:hover{
+  background-color: rgb(208, 208, 208);
+}
+.active{
+  color: brown;
+  text-decoration: none;
+}
+.allWorks{
+  text-align: center;
+  font-size: 30px;
+}
+.header{
+  overflow: hidden;
+}
