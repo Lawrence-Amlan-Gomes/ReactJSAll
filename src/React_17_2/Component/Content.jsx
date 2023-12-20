@@ -1,6 +1,5 @@
 import Hover from "./Hover"
 import Theme from "./Theme"
-import React from "react"
 import { useContext } from "react";
 export default function Content(){
     const context = useContext(Theme)
